@@ -5,18 +5,25 @@ Our aim is developing a computer vision based extention or something that detect
 
 
 1- Computer Vision development
+
+
 2- Extention development (especialy for Youtube);
     -Chrome
     -Opera(?)
     -Edge(?)
     -Firefox(?)
+
+    
 3- Browser implementation(for whole web image censorer)
+
+
 4- Operating Systme implementation;
     -Windows
     -Linux
     -MAC
 
-+ Unwanted?
-- Nudity which prohibited by Islam,
-- (may be)Harmful contents for kids(settings may be avaliable)(?)
-- and/or more...
+
++Unwanted?
+-Nudity which prohibited by Islam,
+ ,(may be)Harmful contents for kids(settings may be avaliable)(?)
+ ,and/or more...
